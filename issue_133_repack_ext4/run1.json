@@ -1,0 +1,8 @@
+{
+  "copy": {
+    "1/system_dlkm.img": "system_dlkm.img",
+    "1/vbmeta.img": "vbmeta.img"
+  },
+  "hash": {
+  }
+}

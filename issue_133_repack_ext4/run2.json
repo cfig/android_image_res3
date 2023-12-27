@@ -1,0 +1,8 @@
+{
+  "copy": {
+    "2/vendor_dlkm.img": "vendor_dlkm.img",
+    "2/vbmeta.img": "vbmeta.img"
+  },
+  "hash": {
+  }
+}
