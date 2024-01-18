@@ -1,0 +1,9 @@
+{
+  "copy": {
+    "ota.zip": "ota.zip"
+  },
+  "hash": {
+    "build/unzip_boot/bootloader.pmic.img": "b784ca67f9e2944b0fa1f45eacd54bcd",
+    "build/unzip_boot/META-INF/com/google/android/updater-script": "fa5e8927fc0a17b56f2b2ea7018081f5"
+  }
+}
