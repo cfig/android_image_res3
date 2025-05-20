@@ -8,8 +8,8 @@
     "build/unzip_boot/dtb.1": "9eaa059fa7499c5d3e2990dbacd6ae09",
     "build/unzip_boot/dtb.2": "af1f7ab9147e91a84f9535e92dde79ad",
     "build/unzip_boot/dtb.3": "2d22f623cbf9001f21010be491e2dd30",
-    "vendor_kernel_boot.img.clear": "31be9cead6489ae7965518361d3bf04e 87003d76a3555150a90fcee6bc3c85ac",
-    "vendor_kernel_boot.img.signed": "20de8767f86cf35fb10d29dc24118a24 c7fd3e907b4c2b1de9c66411bd8560eb",
+    "build/unzip_boot/intermediate/vendor_kernel_boot.img.clear": "31be9cead6489ae7965518361d3bf04e 87003d76a3555150a90fcee6bc3c85ac",
+    "vendor_kernel_boot.img": "20de8767f86cf35fb10d29dc24118a24 c7fd3e907b4c2b1de9c66411bd8560eb",
     "vbmeta.img.signed": "c905024e08c2c21a073f41de12f6f1a8 1cad45f67750a3f72c9b69e9c80ac42f"
   }
 }

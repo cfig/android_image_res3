@@ -3,7 +3,6 @@
     "vendor_boot.img": "vendor_boot.img"
   },
   "hash": {
-    "vendor_boot.img": "870cea846237be7495e9565eaa2db102",
-    "vendor_boot.img.signed": "0ced99019d620f659d717b358389d79e"
+    "vendor_boot.img": "0ced99019d620f659d717b358389d79e"
   }
 }
